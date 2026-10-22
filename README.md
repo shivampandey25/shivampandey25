@@ -51,10 +51,9 @@ AI_Training.ComputerVision:
   - Root Cause Analysis & Annotation SOPs
 
 Data.Infrastructure:
-  - MySQL, PostgreSQL, SQLite
-  - Data Extraction & ETL Pipelines
-  - Data Governance, Masking & Compliance
----
+    - MySQL, PostgreSQL, SQLite
+    - Data Extraction & ETL Pipelines
+    - Data Governance, Masking & Compliance
 
 ### 📂 Featured Projects & Highlights
 
