@@ -1,25 +1,31 @@
 <div align="center">
 
-# <code>&gt; Shivam Pandey /&gt;</code>
+  <!-- Terminal Typing Header -->
+  <a href="https://shivampandey.co.in" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&width=720&height=100&lines=~%24+whoami;Shivam+Pandey+%E2%80%94+Data+%26+AI+Specialist" alt="Shivam Pandey Banner" />
+  </a>
 
-### **AI Data Quality Specialist & Analytics Engineer**
+  <p align="center">
+    <code>AI Data Quality Specialist</code> • <code>150+ GCP Skill Badges</code> • <code>IEEE Published Author</code>
+  </p>
 
-<p>
-  <code>AI Data Quality Specialist</code> &nbsp;•&nbsp; 
-  <code>150+ GCP Skill Badges</code> &nbsp;•&nbsp; 
-  <code>IEEE Published Author</code>
-</p>
+  <p align="center">
+    <b>📍 Noida, UP, India</b> &nbsp;•&nbsp; 
+    <b>🎓 MBA (Finance & Analytics) | B.Tech CSE</b> &nbsp;•&nbsp; 
+    <b>💼 Innodata Inc.</b>
+  </p>
 
-<p>
-  📍 <b>Noida, UP, India</b> &nbsp;•&nbsp; 
-  🎓 <b>MBA (Finance &amp; Analytics) | B.Tech CSE</b>
-</p>
-
-<p>
-  <a href="https://shivampandey.co.in"><b>🌐 Portfolio Website</b></a> &nbsp;｜&nbsp; 
-  <a href="https://www.linkedin.com/in/shivam-pandey-910b2681/"><b>💼 LinkedIn Profile</b></a> &nbsp;｜&nbsp; 
-  <a href="mailto:contact@shivampandey.co.in"><b>✉️ Email Contact</b></a>
-</p>
+  <p align="center">
+    <a href="https://shivampandey.co.in" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-shivampandey.co.in-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/shivam-pandey-analytics" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Shivam_Pandey-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:contact@shivampandey.co.in">
+      <img src="https://img.shields.io/badge/Email-contact@shivampandey.co.in-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
