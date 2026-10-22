@@ -54,3 +54,15 @@ Data.Infrastructure:
   - MySQL, PostgreSQL, SQLite
   - Data Extraction & ETL Pipelines
   - Data Governance, Masking & Compliance
+
+
+---
+
+### 🌟 Featured Projects
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **Phishing Detection Platform**<br><sub>*(Published in IEEE Xplore)*</sub> | NLP & Cybersecurity classification pipeline evaluating multi-modal features on 50,000+ records with 94.2% accuracy | Python · NLTK · Scikit-learn · Pandas · Matplotlib |
+| **Real-Time Attendance System** | Automated biometric attendance tracker using computer vision and Viola-Jones feature cascade algorithm with 95% accuracy | Python · OpenCV · Viola-Jones · SQLite · Tkinter |
+| **Enterprise AI Annotation Pipeline** | Frame-by-frame segmentation & action labeling infrastructure for computer vision and robotics datasets across 10,000+ images & 500+ videos | CV Annotation · Robotics Data · Quality Frameworks · SOPs |
+| **Visitor & Inventory Management** | Web-based check-in platform cutting visitor wait times by 60% with automated bulk data extraction, cleansing, and database migrations | PHP · MySQL · ETL Pipelines · ITSM |
