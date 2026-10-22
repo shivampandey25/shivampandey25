@@ -12,14 +12,14 @@
   <p align="center">
     <b>📍 Noida, UP, India</b> &nbsp;•&nbsp; 
     <b>🎓 MBA (Finance & Analytics) | B.Tech CSE</b> &nbsp;•&nbsp; 
-    <b>💼 Innodata Inc.</b>
+ <!--  <b>💼 Innodata Inc.</b>  -->
   </p>
 
   <p align="center">
     <a href="https://shivampandey.co.in" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-shivampandey.co.in-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/shivam-pandey-analytics" target="_blank">
+    <a href="https://www.linkedin.com/in/shivam-pandey-910b2681/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Shivam_Pandey-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:contact@shivampandey.co.in">
