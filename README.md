@@ -54,3 +54,13 @@ Data.Infrastructure:
   - MySQL, PostgreSQL, SQLite
   - Data Extraction & ETL Pipelines
   - Data Governance, Masking & Compliance
+---
+
+### 📂 Featured Projects & Highlights
+
+| Project / Milestone | Domain | Core Stack |
+| :--- | :--- | :--- |
+| **Phishing Detection via NLP & ML**<br><sub>*Published in IEEE Xplore*</sub> | NLP & Cybersecurity Classification on 50,000+ records with 94.2% accuracy. | `Python` • `NLTK` • `Scikit-learn` • `Pandas` |
+| **Real-Time Face Recognition Attendance** | Automated biometric attendance system using computer vision algorithms with 95% accuracy. | `Python` • `OpenCV` • `Viola-Jones` • `SQLite` |
+| **Enterprise AI Data Annotation Pipeline** | Video segmentation & action labeling for robotics/CV models across 10,000+ images & 500+ videos. | `CV Annotation` • `Robotics Data` • `SOP Frameworks` |
+| **Visitor Management & Inventory System** | Enterprise check-in and inventory tracking platform reducing visitor wait time by 60%. | `PHP` • `MySQL` • `ETL Migration` |
